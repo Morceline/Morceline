@@ -1,4 +1,4 @@
-- 👋 olá, me chamo Jackeline, nickname @Morceline
+- 👋 Olá, meu nome é Jackeline, nickname @Morceline
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Dart
 
 <!---
